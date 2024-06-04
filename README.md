@@ -3,7 +3,7 @@
 ![3D Parallax Developer Portfolio Thumbnail](./src/assets/results.png)
 
 ## Introduction
- Hello All, this is my 3D Portfolio that i made to show case my porjects during study, competitions, courses and journey as a Computer science student.  
+ Hello All, this is my 3D Portfolio that i made to show case my projects during study, competitions, courses and journey as a Computer science student.  
 
 ## Technologies
 - Vite - Build tool for the boilerplate and structure
