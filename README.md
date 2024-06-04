@@ -1,4 +1,4 @@
-# 3D Parallax Developer Portfolio Website
+# 3D Developer Portfolio Website
 
 ![3D Parallax Developer Portfolio Thumbnail](./src/assets/results.png)
 
