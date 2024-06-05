@@ -93,7 +93,7 @@ const portfolio = [
   {
     name: "Beam App UI/UX",
     description:
-      "One of my Final Project design of Beam App, with some improvements feature, in Interaction of Human & C.",
+      "One of my Final Project design of Beam App, with some improvements feature, in Interaction of Human & Computer Design.",
     image: beam,
     link: "https://github.com/Mr-Roma/MyPortfolio.git"
   },
